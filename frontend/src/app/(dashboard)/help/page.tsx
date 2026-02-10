@@ -21,7 +21,8 @@ import {
     AlertCircle,
     CheckCircle2,
     Paperclip,
-    Monitor
+    Monitor,
+    Shield
 } from 'lucide-react';
 import { Button } from '@/components/ui';
 import Breadcrumb from '@/components/Breadcrumb';
