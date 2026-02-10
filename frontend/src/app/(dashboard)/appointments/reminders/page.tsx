@@ -8,7 +8,8 @@ import {
     Mail,
     CheckCircle2,
     ToggleLeft,
-    ToggleRight
+    ToggleRight,
+    Clock
 } from 'lucide-react';
 import Breadcrumb from '@/components/Breadcrumb';
 import { Card, CardContent } from '@/components/ui';
